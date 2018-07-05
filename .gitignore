@@ -1,0 +1,6 @@
+/.idea/
+/.sass-cache/
+/static/*.css
+/static/*.css.map
+/target/
+**/*.rs.bk
